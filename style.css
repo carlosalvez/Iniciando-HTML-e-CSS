@@ -1,20 +1,8 @@
-*{
-margin: 0;
-padding: 0;
-
-}
-
 body{
-    box-sizing: border-box;
-    background-color: #000;
-    color: #f6f6f6; 
+    background-color: #000000;
+    color: #F6F6F6;
 }
 
-.titulo-destaque {
-
+strong{
     color: #22D4FD;
-}
-.apresentacao{
-    display: flex;
-    align-items: center;
 }
